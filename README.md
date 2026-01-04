@@ -20,13 +20,13 @@ This project was made purely out of curiosity and boredom. It's not meant to be 
 - **JavaScript** (9.1%) - Basic interactivity
 
 ## 📁 Project Structure
-My-First-Webpage/
-├── index.html # Main webpage
-├── project.html # Project page
-├── style.css # Stylesheet
-├── script.js # JavaScript functionality
-├── README.md # This file
-└── images/ # Image assets
+- My-First-Webpage/
+- ├── index.html # Main webpage
+- ├── project.html # Project page
+- ├── style.css # Stylesheet
+- ├── script.js # JavaScript functionality
+- ├── README.md # This file
+- └── images/ # Image assets
 
 
 ## 🚦 Getting Started
